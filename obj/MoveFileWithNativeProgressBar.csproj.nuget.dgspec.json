@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yosef\\dev\\MoveFileWithNativeProgressBar\\MoveFileWithNativeProgressBar.csproj": {}
+    "C:\\Users\\Yosef\\dev\\move-file-with-native-progress-bar\\MoveFileWithNativeProgressBar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yosef\\dev\\MoveFileWithNativeProgressBar\\MoveFileWithNativeProgressBar.csproj": {
+    "C:\\Users\\Yosef\\dev\\move-file-with-native-progress-bar\\MoveFileWithNativeProgressBar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yosef\\dev\\MoveFileWithNativeProgressBar\\MoveFileWithNativeProgressBar.csproj",
+        "projectUniqueName": "C:\\Users\\Yosef\\dev\\move-file-with-native-progress-bar\\MoveFileWithNativeProgressBar.csproj",
         "projectName": "MoveFileWithNativeProgressBar",
-        "projectPath": "C:\\Users\\Yosef\\dev\\MoveFileWithNativeProgressBar\\MoveFileWithNativeProgressBar.csproj",
+        "projectPath": "C:\\Users\\Yosef\\dev\\move-file-with-native-progress-bar\\MoveFileWithNativeProgressBar.csproj",
         "packagesPath": "C:\\Users\\Yosef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yosef\\dev\\MoveFileWithNativeProgressBar\\obj\\",
+        "outputPath": "C:\\Users\\Yosef\\dev\\move-file-with-native-progress-bar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
